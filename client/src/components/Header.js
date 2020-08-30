@@ -10,7 +10,6 @@ class Header extends Component{
                 return (
                     <div>
                         <a className="btn btn-primary" href="/auth/google">Sign in with Google</a>
-                        <a className="btn btn-outline-primary" href="/signUpPage">Sign Up</a>
                     </div>
                 );
             default:
